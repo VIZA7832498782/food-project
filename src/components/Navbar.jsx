@@ -131,7 +131,7 @@ const Navbar = () => {
           </div>
 
             {/* CENTER: MENU */}
-            <ul className="hidden lg:flex gap-10 flex-1 justify-end pl-10">
+            <ul className="hidden lg:flex flex-nowrap gap-8 flex-shrink justify-end pl-6 whitespace-nowrap overflow-hidden">
               {menu.map((u) => (
                 <li className="group relative" key={u.id}>
                   <Link
