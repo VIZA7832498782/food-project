@@ -168,7 +168,7 @@ const AllMenu = () => {
       <div className="max-w-7xl mx-auto">
         {/* Header */}
         <div className="mb-12 text-center">
-          <h1 className="text-4xl md:text-5xl font-extrabold text-transparent bg-gradient-to-r from-orange-600 via-red-500 to-orange-600 bg-clip-text mb-4">
+          <h1 className="py-1 text-4xl md:text-5xl font-extrabold text-transparent bg-gradient-to-r from-orange-600 via-red-500 to-orange-600 bg-clip-text mb-4">
             {t('menu.allMenu')}
           </h1>
           <p className="text-gray-600 text-lg">
