@@ -301,7 +301,7 @@ export const khmerDessert = [
   },
   {
     id: 6,
-    name: "បបរចាដូវ",
+    name: "Borbor jadov(បបរចាដូវ)",
     description: "Sweet mung bean porridge cooked in coconut milk, often topped with sesame seeds or fried shallots for aroma.",
     price: 0.90,
     qty: 85,
@@ -310,7 +310,7 @@ export const khmerDessert = [
 },
   {
     id: 7,
-    name: "បបរលត",
+    name: "Borbor lot(បបរលត)",
     description: "Steamed rice flour cake made with grated coconut and palm sugar. Soft, chewy, and lightly sweet.",
     price: 0.60,
     qty: 95,
