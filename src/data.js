@@ -330,7 +330,7 @@ export const khmerDessert = [
 
 
 
-// // Menu Soup Data
+// Menu Soup Data
 import cate_soup1 from '../src/assets/image/cate_soup1.jpg'
 import cate_soup2 from '../src/assets/image/cate_soup2.jpg'
 import cate_soup3 from '../src/assets/image/cate_soup3.jpg'
