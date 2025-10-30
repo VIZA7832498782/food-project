@@ -59,6 +59,11 @@
     "descriptionPart1": "Discover the rich flavors of Cambodia with our carefully curated selection of traditional dishes,",
     "descriptionPart2": "prepared with love and authenticity"
   },
+  "button": {
+    "exploreMenu": "Explore Menu",
+    "viewDetails": "View Details"
+  },
+  
   "menu": {
     "allMenu": "All Menu",
     "filters": "Filters",

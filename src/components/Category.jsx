@@ -85,7 +85,7 @@ const Category = () => {
                         hover:from-orange-600 hover:to-red-600 hover:scale-105 hover:shadow-xl hover:shadow-orange-300/50
                         transition-all duration-300 font-semibold mt-3'
                         >
-                        Explore Menu →
+                         {t('button.exploreMenu')} →
                         </Link>
                     </div>
                     </div>

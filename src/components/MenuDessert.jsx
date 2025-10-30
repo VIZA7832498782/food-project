@@ -126,7 +126,7 @@ const MenuDessert = () => {
                     hover:from-orange-600 hover:to-red-600 hover:scale-105 hover:shadow-xl hover:shadow-orange-300/50
                     transition-all duration-300 font-semibold'
                   >
-                    View Details
+                    {t('button.viewDetails')}
                   </Link>
                 </div>
               </div>

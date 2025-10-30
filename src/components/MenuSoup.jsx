@@ -112,7 +112,7 @@ const MenuSoup = () => {
                                         <Link to={`/MenuSoup/${s.id}`} className='block text-center w-full px-6 py-3 rounded-xl text-white bg-gradient-to-r from-orange-500 to-red-500 
                                         hover:from-orange-600 hover:to-red-600 hover:scale-105 hover:shadow-xl hover:shadow-orange-300/50
                                         transition-all duration-300 font-semibold'>
-                                          View Details
+                                          {t('button.viewDetails')}
                                         </Link>
                                     </div>
                                 </div>
